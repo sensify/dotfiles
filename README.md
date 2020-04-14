@@ -1,2 +1,3 @@
 # dotfiles
-my .config folders
+
+![screenshot](screen.png)
